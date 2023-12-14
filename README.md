@@ -1,6 +1,3 @@
-# Assignment_on_Dockerizing_a_Plain_HTML_Page_with_Nginx
-
-
 Objective:
 The Main Objective of this assignment is to understanding Docker and containerization by Dockerizing a simple HTML page using Nginx as the web server.
 Requirements:
